@@ -1,1 +1,0 @@
-savedcmd_/home/marco/Documents/kmods/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/marco/Documents/kmods/Module.symvers -T /home/marco/Documents/kmods/modules.order -i Module.symvers -e 
